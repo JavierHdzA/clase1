@@ -1,1 +1,5 @@
 Mi nombre es paquito y actualmente estioy tratando de enseñar git. :v
+
+Hasta el momento cuento con dos alumnos y un profe de respaldo.
+De los dos alumno, solo tengo comunicación directa con uno y el otro 
+permanece en el anonimato.
